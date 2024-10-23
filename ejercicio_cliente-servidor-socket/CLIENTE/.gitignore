@@ -1,0 +1,4 @@
+#Ignorar entorno virtual
+venv/
+
+configuracion/config.ini
