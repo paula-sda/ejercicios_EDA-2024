@@ -4,3 +4,5 @@ venv/
 
 ejercicio_cliente-servidor-socket/SERVIDOR/configuracion/config.ini
 ejercicio_cliente-servidor-socket/CLIENTE/configuracion/config.ini
+
+ejercicio_cliente-api
