@@ -1,0 +1,6 @@
+#Ignorar entorno virtual
+venv/
+.env/
+
+ejercicio_cliente-servidor-socket/SERVIDOR/configuracion/config.ini
+ejercicio_cliente-servidor-socket/CLIENTE/configuracion/config.ini
