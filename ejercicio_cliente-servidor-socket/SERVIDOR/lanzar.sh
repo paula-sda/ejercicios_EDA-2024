@@ -21,9 +21,9 @@ echo "Instalando dependencias..."
 pip install -r requirements.txt
 
 # Ejecutar el archivo main.py
-#echo "Lanzando main.py..."
-#python3 -u MAIN.py
+echo "Lanzando main.py..."
+python3 -u MAIN.py
 
 # Desactivar el entorno virtual al finalizar
-#deactivate
+deactivate
 
