@@ -4,8 +4,6 @@ ejercicio_cliente-servidor-socket/CLIENTE/configuracion/config.ini
 
 *.old
 
-ejercicio_cliente-api
-
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
