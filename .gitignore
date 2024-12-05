@@ -1,8 +1,7 @@
+#configuracion 
+**/configuracion/config.ini
 
-ejercicio_cliente-servidor-socket/SERVIDOR/configuracion/config.ini
-ejercicio_cliente-servidor-socket/CLIENTE/configuracion/config.ini
-ejercicio_cliente-api/configuracion/config.ini
-
+#Codigo antiguio sin estructurar
 *.old
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
